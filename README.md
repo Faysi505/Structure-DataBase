@@ -1,7 +1,10 @@
 # Structure-DataBase
 > This repository contains programm that creates database with structure.
-> It allows user to delete student from the list, add new students, edit student that already in the list, 
-> sort list by name, surnam, age and class and filter it to see specific students that are in specific group.
+> 
+> It allows user to delete student from the list, add new students, edit student that already in the list,
+> 
+> sort list by name, surname, age and class and filter it to see specific students that are in specific group.
+> 
 
 
 
