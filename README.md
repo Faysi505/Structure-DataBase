@@ -7,9 +7,13 @@
 
 # Features
 > Accepts specific integers to address user commands to the programm.
+> 
 > Efficiency: Optimized to handle big amount of information located in the list.
+> 
 > Free use of list: User have a lot ways to change and sort list by the command.
+> 
 > To use programm user have to input specific integers that written in terminal by the programm.
+> 
 
 
 
